@@ -33,12 +33,14 @@ Generates 10,000 random portfolios to visualize the risk-return tradeoff.
 Highlights optimal portfolios on the Efficient Frontier Plot.
 
 📂 Project Files
+
 File Name	Description
 
 Satyam_Portfolio Optimization using Markowitz Model.ipynb	Main Python script for portfolio optimization
 README.md	Project documentation
 
 📈 Example Output
+
 Optimal Portfolio Weights (Max Sharpe Ratio):
 AAPL: 0.40
 GOOGL: 0.00
