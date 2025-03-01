@@ -34,6 +34,7 @@ Highlights optimal portfolios on the Efficient Frontier Plot.
 
 📂 Project Files
 File Name	Description
+
 Satyam_Portfolio Optimization using Markowitz Model.ipynb	Main Python script for portfolio optimization
 README.md	Project documentation
 
