@@ -1,4 +1,5 @@
 📈 Portfolio Optimization using Python
+
 This project implements Modern Portfolio Theory (MPT) using Python to optimize stock allocations for maximum returns and minimal risk. It employs Markowitz’s Efficient Frontier and Sharpe Ratio Maximization to construct an optimal investment portfolio.
 
 The analysis is based on historical stock data fetched via yfinance and includes risk-adjusted return computations, volatility estimation, and efficient frontier visualization.
