@@ -80,6 +80,6 @@ The script generates an Efficient Frontier plot with:
 
 
 👨‍💻 Author & Contributions
-👤 Satyam(MS in Business Analytics majoring in Finance from University at Buffalo School of Management
+👤 Satyam(MS in Business Analytics majoring in Finance from University at Buffalo School of Management)
 If you found this helpful, feel free to ⭐ the repo and contribute!
 
