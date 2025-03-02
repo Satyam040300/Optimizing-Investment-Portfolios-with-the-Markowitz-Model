@@ -19,17 +19,14 @@ Project Methodology
 This project follows a structured approach to construct an optimized portfolio:
 
 Data Collection 
-
 Fetches daily stock prices for selected tickers (AAPL, GOOGL, DIS, XOM, PFE) from Yahoo Finance.
 Computes daily & annualized returns.
 
 Portfolio Analysis 
-
 Computes the correlation matrix to analyze asset dependencies.
 Calculates mean returns and covariance matrix for risk estimation.
 
 Optimization Using SciPy 
-
 Max Sharpe Ratio Portfolio → Finds the best risk-adjusted return.
 Minimum Volatility Portfolio → Identifies the safest allocation.
 
@@ -37,14 +34,14 @@ Efficient Frontier Simulation
 Generates 10,000 random portfolios to visualize the risk-return tradeoff.
 Highlights optimal portfolios on the Efficient Frontier Plot.
 
-📂 Project Files
+Project Files
 
 File Name	Description
 
 Satyam_Portfolio Optimization using Markowitz Model.ipynb	Main Python script for portfolio optimization
 README.md	Project documentation
 
-📈 Example Output
+Example Output
 
 Optimal Portfolio Weights (Max Sharpe Ratio):
 AAPL: 0.40
